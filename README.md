@@ -1,2 +1,2 @@
-# adddition-of-two-numbers
-sum of two numberss
+# subtraction-of-two-numbers
+difference b\t two numbers
